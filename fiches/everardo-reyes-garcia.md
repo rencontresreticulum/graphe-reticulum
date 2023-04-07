@@ -1,7 +1,7 @@
 ---
 title: Everardo Reyes Garcia
 id: 20230314246077
-type: undefined
+type: intervenant-e
 ---
 
 Université Paris 8

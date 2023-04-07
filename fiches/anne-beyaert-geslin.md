@@ -1,7 +1,7 @@
 ---
 title: Anne Beyaert-Geslin
 id: 20230314246074
-type: undefined
+type: intervenant-e
 ---
 
 Université Bordeaux Montaigne
